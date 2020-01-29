@@ -1,3 +1,6 @@
+#Tarea 2 - Arreglo de sufijos: Recuperación de información
+#Elaborado por: Bryan Rodrigo Quiroz Palominos
+
 import operator
 
 
@@ -53,7 +56,7 @@ def occurrences(inf, sup, str, suffix, suffix_array):
     return ocurrence
 
 
-print("Ingrese una palabra: ")
+print("Ingrese una palabra o texto: ")
 str = input()
 print("Ingrese palabra a buscar: ")
 str_find = input()
