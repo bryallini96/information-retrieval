@@ -1,0 +1,1 @@
+In computer science, a suffix array is a sorted array of all suffixes of a string. It is a data structure used, among others, in full text indices, data compression algorithms and within the field of bibliometrics. 
